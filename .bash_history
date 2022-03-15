@@ -34,3 +34,15 @@ git remote add origin https://github.com/UCemBerber/amplifyapp.git
 git branch -M main
 git push -u origin main
 exit
+git init
+git remote add origin git@github.com:username/reponame.git
+git remote add origin https://github.com/UCemBerber/amplifyapp.git
+git add .
+git commit -m "initial commit"
+git push origin master
+git push origin main
+git push -u origin main
+git remote add origin https://github.com/UCemBerber/amplifyapp.git
+git branch -M main
+git push -u origin main
+exit
